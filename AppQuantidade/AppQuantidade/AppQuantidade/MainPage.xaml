@@ -8,13 +8,15 @@
         <Label Text=" Quantidade " 
                HorizontalTextAlignment="Center" 
                FontSize="20" />
-        <Label Text=" 1 "
+        <Label x:Name="LblQuantidade" 
+               Text=" 1 "
                 HorizontalTextAlignment="Center" 
                FontSize="48"
                TextColor="Red" />
         
         <StackLayout Orientation="Horizontal" Spacing="40"> 
-            <Button Text=" + "
+            <Button Clicked="Aumentar"
+                    Text=" + "
                     FontSize=" 48"
                     BorderWidth="1" 
                     BorderColor=" #707070" 
@@ -22,7 +24,8 @@
                     WidthRequest=" 90"
                     HeightRequest=" 90"
                     />
-            <Button Text=" - "  
+            <Button Clicked="Diminuir"
+                    Text=" - "  
                      FontSize=" 48"
                     BorderWidth="1" 
                     BorderColor=" #707070" 

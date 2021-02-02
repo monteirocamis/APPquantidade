@@ -2,8 +2,8 @@
 	.section	.rodata.env.str.1,"aMS",@progbits,1
 	.type	.L.env.str.1, @object
 .L.env.str.1:
-	.asciz	"com.companyname.appquantidade"
-	.size	.L.env.str.1, 30
+	.asciz	"br.com.codivas.appquantidade"
+	.size	.L.env.str.1, 29
 	.section	.data.application_config,"aw",@progbits
 	.type	application_config, @object
 	.p2align	2
@@ -71,7 +71,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",@progbits,1
 	.type	.L.env.str.8, @object
 .L.env.str.8:
-	.asciz	"4fddf3f3-87fb-467f-8d23-0328eebc3370"
+	.asciz	"40d7d8a2-1dd9-4ad2-a440-4749af6906db"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",@progbits,1
 	.type	.L.env.str.9, @object

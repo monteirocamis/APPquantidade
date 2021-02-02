@@ -1,10 +1,5 @@
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\AppQuantidade.Android.dll
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\AppQuantidade.Android.pdb
-C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\com.companyname.appquantidade.apk
-C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\com.companyname.appquantidade.aab
-C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\com.companyname.appquantidade-Signed.aab
-C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\com.companyname.appquantidade-Signed.apk
-C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\com.companyname.appquantidade-Signed.apk.idsig
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\AppQuantidade.dll
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\AppQuantidade.pdb
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
@@ -31,10 +26,7 @@ C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\AppQuanti
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\AppQuantidade.Android.csproj.CopyComplete
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\AppQuantidade.Android.dll
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\AppQuantidade.Android.pdb
-C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\android\bin\com.companyname.appquantidade.apk
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\android\bin\base.zip
-C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\android\bin\com.companyname.appquantidade.aab
-C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\android\bin\com.companyname.appquantidade.apks
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\res\layout\tabbar.xml
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\res\layout\toolbar.xml
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\res\values\styles.xml
@@ -504,3 +496,12 @@ C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\res\drawa
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\res\drawable-hdpi\logo.png
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\res\drawable-ldpi\logo.png
 C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\android\src\crc64b157b3412a31e9a1\SplashActivity.java
+C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\br.com.codivas.appquantidade.apk
+C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\br.com.codivas.appquantidade.aab
+C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\br.com.codivas.appquantidade-Signed.aab
+C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\br.com.codivas.appquantidade-Signed.apk
+C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\bin\Debug\br.com.codivas.appquantidade-Signed.apk.idsig
+C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\android\bin\br.com.codivas.appquantidade.apk
+C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\android\bin\br.com.codivas.appquantidade.aab
+C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\android\bin\br.com.codivas.appquantidade.apks
+C:\xama\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\90\android\src\br\com\codivas\appquantidade\R.java
